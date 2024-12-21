@@ -1,0 +1,18 @@
+.container {
+  background: rgb(233, 228, 228);
+  width: 57vw;
+  height: 335px;
+}
+.para {
+  font-size: 22px;
+  margin-top: 22px;
+}
+#btn{
+  background-color: blue;
+}
+button a{
+  text-decoration: none;
+ 
+}
+
+
